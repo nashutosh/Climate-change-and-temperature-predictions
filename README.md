@@ -39,10 +39,10 @@ Welcome to the **Climate Change Analysis and Prediction** repository! This proje
 2. Analyze the data:
 
 ```bash
-python scripts/analysis_script.py
+python scripts/prediction_time_series.py
 ```
 
-3. Explore interactive visualizations and insights using the notebooks in `notebooks/`.
+3. Explore interactive visualizations and insights using the codefile in `analysis_file/`.
 
 ---
 
@@ -60,7 +60,7 @@ python scripts/analysis_script.py
 
 3. 🔮 **Future Predictions:**
 
-   - By 2050, average annual temperatures are predicted to increase by \~2°C based on current trends.
+   - By next month, average annual temperatures are predicted to increase by \13.2°C based on current trends.
 
 ---
 
